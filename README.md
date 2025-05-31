@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) based Finance Dashboard.
 
+![Working example](https://github.com/kodiriys/nextjs-home-finances/blob/main/public/WorkingExampleOutput.png?raw=true)
+
 Put your data into the `/public/spending.json` file like below. Then run `pnpm dev` to see your visualizations on [http://localhost:3000](http://localhost:3000) in your browser!
 
 ```json
