@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) based Finance Dashboard.
 
-Put your data into the `/public/spending.json` file like below. Then run `pnpm dev` to watch see your visualizations on [http://localhost:3000](http://localhost:3000) in your browser!
+Put your data into the `/public/spending.json` file like below. Then run `pnpm dev` to see your visualizations on [http://localhost:3000](http://localhost:3000) in your browser!
 
 ```json
 [
