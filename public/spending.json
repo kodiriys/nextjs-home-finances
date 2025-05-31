@@ -1,0 +1,194 @@
+[
+  {
+    "period": "2025-03",
+    "total": 3821.55,
+    "categories": [
+      { "category": "Books", "amount": 45.99 },
+      { "category": "Transportation", "amount": 120.5 },
+      { "category": "Dining", "amount": 301.2 },
+      { "category": "Groceries", "amount": 642.35 },
+      { "category": "Utilities", "amount": 132.87 },
+      { "category": "Health", "amount": 230.5 },
+      { "category": "Shopping", "amount": 713.25 },
+      { "category": "Entertainment", "amount": 57.99 },
+      { "category": "Gifts", "amount": 99.95 },
+      { "category": "Rent", "amount": 1477.95 }
+    ]
+  },
+  {
+    "period": "2025-04",
+    "total": 4928.41,
+    "categories": [
+      { "category": "Books", "amount": 18.99 },
+      { "category": "Transportation", "amount": 142.6 },
+      { "category": "Dining", "amount": 284.1 },
+      { "category": "Groceries", "amount": 715.8 },
+      { "category": "Utilities", "amount": 145.4 },
+      { "category": "Health", "amount": 220.3 },
+      { "category": "Shopping", "amount": 808.75 },
+      { "category": "Entertainment", "amount": 89.0 },
+      { "category": "Insurance", "amount": 275.0 },
+      { "category": "Rent", "amount": 2228.47 }
+    ]
+  },
+  {
+    "period": "2025-05",
+    "total": 3795.63,
+    "categories": [
+      { "category": "Transportation", "amount": 95.75 },
+      { "category": "Dining", "amount": 320.65 },
+      { "category": "Groceries", "amount": 689.2 },
+      { "category": "Utilities", "amount": 138.0 },
+      { "category": "Health", "amount": 210.0 },
+      { "category": "Shopping", "amount": 920.15 },
+      { "category": "Entertainment", "amount": 75.0 },
+      { "category": "Pets", "amount": 105.88 },
+      { "category": "Subscriptions", "amount": 23.0 },
+      { "category": "Rent", "amount": 1218.0 }
+    ]
+  },
+  {
+    "period": "2025-06",
+    "total": 4533.90,
+    "categories": [
+      { "category": "Dining", "amount": 350.25 },
+      { "category": "Groceries", "amount": 780.5 },
+      { "category": "Utilities", "amount": 145.0 },
+      { "category": "Shopping", "amount": 920.7 },
+      { "category": "Entertainment", "amount": 122.5 },
+      { "category": "Health", "amount": 195.0 },
+      { "category": "Subscriptions", "amount": 30.15 },
+      { "category": "Pets", "amount": 132.8 },
+      { "category": "Gas", "amount": 135.0 },
+      { "category": "Rent", "amount": 1722.0 }
+    ]
+  },
+  {
+    "period": "2025-07",
+    "total": 5038.22,
+    "categories": [
+      { "category": "Dining", "amount": 412.0 },
+      { "category": "Groceries", "amount": 843.25 },
+      { "category": "Utilities", "amount": 152.3 },
+      { "category": "Shopping", "amount": 1002.99 },
+      { "category": "Entertainment", "amount": 189.75 },
+      { "category": "Health", "amount": 230.6 },
+      { "category": "Subscriptions", "amount": 26.0 },
+      { "category": "Travel", "amount": 630.0 },
+      { "category": "Gas", "amount": 140.5 },
+      { "category": "Rent", "amount": 1411.83 }
+    ]
+  },
+  {
+    "period": "2025-08",
+    "total": 4786.77,
+    "categories": [
+      { "category": "Dining", "amount": 375.0 },
+      { "category": "Groceries", "amount": 802.33 },
+      { "category": "Utilities", "amount": 144.5 },
+      { "category": "Shopping", "amount": 968.5 },
+      { "category": "Entertainment", "amount": 162.0 },
+      { "category": "Health", "amount": 225.0 },
+      { "category": "Subscriptions", "amount": 28.5 },
+      { "category": "Pets", "amount": 99.99 },
+      { "category": "Gas", "amount": 130.5 },
+      { "category": "Rent", "amount": 1850.45 }
+    ]
+  },
+  {
+    "period": "2025-09",
+    "total": 5250.98,
+    "categories": [
+      { "category": "Dining", "amount": 422.5 },
+      { "category": "Groceries", "amount": 911.55 },
+      { "category": "Utilities", "amount": 158.75 },
+      { "category": "Shopping", "amount": 1045.65 },
+      { "category": "Entertainment", "amount": 205.0 },
+      { "category": "Health", "amount": 248.0 },
+      { "category": "Subscriptions", "amount": 35.0 },
+      { "category": "Travel", "amount": 540.0 },
+      { "category": "Gas", "amount": 150.0 },
+      { "category": "Rent", "amount": 1534.53 }
+    ]
+  },
+  {
+    "period": "2025-10",
+    "total": 4893.23,
+    "categories": [
+      { "category": "Dining", "amount": 388.4 },
+      { "category": "Groceries", "amount": 800.0 },
+      { "category": "Utilities", "amount": 146.0 },
+      { "category": "Shopping", "amount": 927.85 },
+      { "category": "Entertainment", "amount": 177.75 },
+      { "category": "Health", "amount": 232.5 },
+      { "category": "Subscriptions", "amount": 29.0 },
+      { "category": "Travel", "amount": 455.0 },
+      { "category": "Gas", "amount": 137.0 },
+      { "category": "Rent", "amount": 1600.73 }
+    ]
+  },
+  {
+    "period": "2025-11",
+    "total": 5071.46,
+    "categories": [
+      { "category": "Dining", "amount": 409.0 },
+      { "category": "Groceries", "amount": 850.1 },
+      { "category": "Utilities", "amount": 150.0 },
+      { "category": "Shopping", "amount": 1013.25 },
+      { "category": "Entertainment", "amount": 191.5 },
+      { "category": "Health", "amount": 241.0 },
+      { "category": "Subscriptions", "amount": 31.0 },
+      { "category": "Gas", "amount": 142.0 },
+      { "category": "Gifts", "amount": 135.0 },
+      { "category": "Rent", "amount": 1608.61 }
+    ]
+  },
+  {
+    "period": "2025-12",
+    "total": 5680.92,
+    "categories": [
+      { "category": "Dining", "amount": 455.0 },
+      { "category": "Groceries", "amount": 912.3 },
+      { "category": "Utilities", "amount": 160.5 },
+      { "category": "Shopping", "amount": 1222.99 },
+      { "category": "Entertainment", "amount": 210.0 },
+      { "category": "Health", "amount": 260.0 },
+      { "category": "Subscriptions", "amount": 33.5 },
+      { "category": "Travel", "amount": 900.0 },
+      { "category": "Gifts", "amount": 230.0 },
+      { "category": "Rent", "amount": 1296.63 }
+    ]
+  },
+  {
+    "period": "2026-01",
+    "total": 4782.31,
+    "categories": [
+      { "category": "Dining", "amount": 370.5 },
+      { "category": "Groceries", "amount": 775.5 },
+      { "category": "Utilities", "amount": 145.0 },
+      { "category": "Shopping", "amount": 985.0 },
+      { "category": "Entertainment", "amount": 170.25 },
+      { "category": "Health", "amount": 220.0 },
+      { "category": "Subscriptions", "amount": 29.5 },
+      { "category": "Gas", "amount": 125.0 },
+      { "category": "Pets", "amount": 90.56 },
+      { "category": "Rent", "amount": 1871.0 }
+    ]
+  },
+  {
+    "period": "2026-02",
+    "total": 4630.78,
+    "categories": [
+      { "category": "Dining", "amount": 345.0 },
+      { "category": "Groceries", "amount": 760.2 },
+      { "category": "Utilities", "amount": 140.0 },
+      { "category": "Shopping", "amount": 889.95 },
+      { "category": "Entertainment", "amount": 168.4 },
+      { "category": "Health", "amount": 225.0 },
+      { "category": "Subscriptions", "amount": 28.0 },
+      { "category": "Gas", "amount": 115.0 },
+      { "category": "Gifts", "amount": 115.0 },
+      { "category": "Rent", "amount": 1844.23 }
+    ]
+  }
+]
