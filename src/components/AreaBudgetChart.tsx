@@ -143,7 +143,7 @@ export function AreaBudgetChart({ data }: AreaBudgetChartProps) {
               <linearGradient id="fillSpending" x1="0" y1="0" x2="0" y2="1">
                 <stop
                   offset="5%"
-                  stopColor="#f59e0b"
+                  stopColor="#22c55e"
                   stopOpacity={0.8}
                 />
                 <stop
@@ -205,7 +205,7 @@ export function AreaBudgetChart({ data }: AreaBudgetChartProps) {
               dataKey="spending"
               type="natural"
               fill="url(#fillSpending)"
-              stroke="#f59e0b"
+              stroke="#22c55e"
               stackId="b"
             />
             <ChartLegend content={<ChartLegendContent />} />

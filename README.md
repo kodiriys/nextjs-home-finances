@@ -9,6 +9,7 @@ Put your data into the `/public/spending.json` file like below. Then run `pnpm d
   {
     "period": "2025-03",
     "total": 3821.55,
+    "budget": 2000.00,
     "categories": [
       { "category": "Books", "amount": 45.99 },
       { "category": "Transportation", "amount": 120.5 },
