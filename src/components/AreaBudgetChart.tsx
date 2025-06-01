@@ -195,18 +195,18 @@ export function AreaBudgetChart({ data }: AreaBudgetChartProps) {
               }
             />
             <Area
-              dataKey="budget"
-              type="natural"
-              fill="url(#fillBudget)"
-              stroke="var(--color-chart-2)"
-              stackId="a"
-            />
-            <Area
               dataKey="spending"
               type="natural"
               fill="url(#fillSpending)"
               stroke="#22c55e"
               stackId="b"
+            />
+            <Area
+              dataKey="budget"
+              type="natural"
+              fill="url(#fillBudget)"
+              stroke="var(--color-chart-2)"
+              stackId="a"
             />
             <ChartLegend content={<ChartLegendContent />} />
           </AreaChart>
