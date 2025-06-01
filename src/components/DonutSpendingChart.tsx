@@ -71,7 +71,7 @@ export function DonutSpendingChart({
 
     const coloredData = data.map((item, i) => ({
         ...item,
-        fill: `var(--chart-${(i % 6) + 1})`,
+        fill: `var(--chart-${(i % 5) + 1})`,
     }));
 
     return (
