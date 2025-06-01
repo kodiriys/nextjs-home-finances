@@ -2,6 +2,7 @@
   {
     "period": "2025-03",
     "total": 3821.55,
+    "budget": 4000.00,
     "categories": [
       { "category": "Books", "amount": 45.99 },
       { "category": "Transportation", "amount": 120.5 },
@@ -18,6 +19,7 @@
   {
     "period": "2025-04",
     "total": 4928.41,
+    "budget": 4000.00,
     "categories": [
       { "category": "Books", "amount": 18.99 },
       { "category": "Transportation", "amount": 142.6 },
@@ -34,6 +36,7 @@
   {
     "period": "2025-05",
     "total": 3795.63,
+    "budget": 4000.00,
     "categories": [
       { "category": "Transportation", "amount": 95.75 },
       { "category": "Dining", "amount": 320.65 },
@@ -50,6 +53,7 @@
   {
     "period": "2025-06",
     "total": 4533.90,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 350.25 },
       { "category": "Groceries", "amount": 780.5 },
@@ -66,6 +70,7 @@
   {
     "period": "2025-07",
     "total": 5038.22,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 412.0 },
       { "category": "Groceries", "amount": 843.25 },
@@ -82,6 +87,7 @@
   {
     "period": "2025-08",
     "total": 4786.77,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 375.0 },
       { "category": "Groceries", "amount": 802.33 },
@@ -98,6 +104,7 @@
   {
     "period": "2025-09",
     "total": 5250.98,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 422.5 },
       { "category": "Groceries", "amount": 911.55 },
@@ -114,6 +121,7 @@
   {
     "period": "2025-10",
     "total": 4893.23,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 388.4 },
       { "category": "Groceries", "amount": 800.0 },
@@ -130,6 +138,7 @@
   {
     "period": "2025-11",
     "total": 5071.46,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 409.0 },
       { "category": "Groceries", "amount": 850.1 },
@@ -146,6 +155,7 @@
   {
     "period": "2025-12",
     "total": 5680.92,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 455.0 },
       { "category": "Groceries", "amount": 912.3 },
@@ -162,6 +172,7 @@
   {
     "period": "2026-01",
     "total": 4782.31,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 370.5 },
       { "category": "Groceries", "amount": 775.5 },
@@ -178,6 +189,7 @@
   {
     "period": "2026-02",
     "total": 4630.78,
+    "budget": 4000.00,
     "categories": [
       { "category": "Dining", "amount": 345.0 },
       { "category": "Groceries", "amount": 760.2 },

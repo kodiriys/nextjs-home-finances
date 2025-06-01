@@ -2,6 +2,7 @@ import { promises as fs } from "fs";
 import path from "path";
 // import { DonutChart } from "@/components/DonutChart";
 import { DonutSpendingChart } from "@/components/DonutSpendingChart";
+import { AreaBudgetChart } from "@/components/AreaBudgetChart";
 
 import { HandCoins, Baby, Banknote } from "lucide-react"
 
@@ -14,6 +15,8 @@ type CategorySpending = {
 
 type MonthlySpending = {
   period: string
+  total: number
+  budget: number
   categories: CategorySpending[]
 }
 
@@ -30,6 +33,26 @@ export default async function Home() {
                     <Banknote className="size-6" />
                     <HandCoins className="size-6" />
                     <span className="font-bold text-lg">Family Finance Dashboard</span>
+                </div>
+
+                <div className="w-full p-2">
+                    {/* <AreaBudgetChart data={spendingData.map(item => ({
+                      total: item.total,
+                      budget: item.budget,
+                      period: `${item.period}-01` // Keep as ISO string
+                    }))} /> */}
+                    <AreaBudgetChart
+                      data={spendingData.map(item => {
+                        const [year, month] = item.period.split("-").map(Number);
+                        const lastDay = new Date(year, month, 0).toISOString().slice(0, 10); // last day of the month
+                          // console.log(`${year}-${month} -> ${lastDay}`);
+                        return {
+                          total: item.total,
+                          budget: item.budget,
+                          period: lastDay,
+                        };
+                      })}
+                    />
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 p-2">
